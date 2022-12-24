@@ -10,9 +10,7 @@ This is a basic To-Do List project with basic Django skills.
 - Start the project by typing "python manage.py runserver".
 - Enter 'localhost:8000' and you ready to go.
 
-### Secret Key
-You can generate your own secret key by doing this and change the secret key value in settings.py.
-https://stackoverflow.com/a/53144229/14506165
+
 
 General features are;
 - User registration
